@@ -1,2 +1,0 @@
-# BookSpace
-Test Project
